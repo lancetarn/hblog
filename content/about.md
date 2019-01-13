@@ -1,7 +1,7 @@
 ---
-title: "About Lancetarn"
+title: "About"
 date: 2018-12-23T13:20:29-06:00
-draft: true
+draft: false
 ---
 
 I'm a human, like some potential parsers of this content. My career has had an
